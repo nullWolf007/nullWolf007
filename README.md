@@ -22,6 +22,6 @@ ___
 
 
 
-<img align="left"  src="https://github-readme-stats.vercel.app/api?username=nullWolf007&count_private=true&theme=cobalt" alt="nullWolf007's GitHub stats"  />
+<img align="left"  src="https://github-readme-stats.vercel.app/api?username=nullWolf007&count_private=true&theme=buefy" alt="nullWolf007's GitHub stats"  />
 
 
